@@ -1,0 +1,9 @@
+.next
+
+.vercel
+
+.vscode
+
+.DS_Store
+
+node_modules/
